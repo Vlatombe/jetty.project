@@ -983,6 +983,11 @@
         <version>${json-simple.version}</version>
       </dependency>
       <dependency>
+        <groupId>com.hazelcast</groupId>
+        <artifactId>hazelcast</artifactId>
+        <version>${hazelcast.version}</version>
+      </dependency>
+      <dependency>
         <groupId>com.jamonapi</groupId>
         <artifactId>jamon</artifactId>
         <version>${jamon.version}</version>
